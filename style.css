@@ -1,0 +1,61 @@
+body {
+    font-family: 'PT Sans', helvetica, sans-serif;
+    font-size: 16px;
+    margin: 24px;
+}
+
+figure {
+    display: inline-block;
+    margin: 24px 0;
+}
+
+figure figcaption {
+    padding: 24px;
+}
+
+figure.figure-1 {
+    background-color: #77B3D9;
+}
+
+figure.figure-2 {
+    background-color: #D8EBF2;
+}
+
+form button {
+    background-color: #348ABF;
+    border: #348ABF 1px solid;
+    border-radius: 0;
+    color: #FFFFFF;
+    font-size: 100%;
+    padding: 15px 15px 16px 15px;
+}
+
+form button:hover {
+    background-color: #77B3D9;
+}
+
+form input[type="text"], form input[type="email"] {
+    border: #348ABF 1px solid;
+    box-sizing: border-box;
+    font-size: 100%;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 225%;
+    margin: 0;
+}
+
+h3 {
+    font-size: 160%;
+    margin: 24px 0;
+}
+
+header {
+    background-color: #B6DBF2;
+    padding: 24px;
+}
+
+main img {
+    max-width: 100%;
+}
